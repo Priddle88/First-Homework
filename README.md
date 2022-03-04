@@ -7,3 +7,4 @@ I replaced some of the previous div tags with section tags to better represent t
 =======
 I replaced some of the previous div tags with section tags to better represent the different layers of the webpage. The goal was to make the titles at the header of the page link to the content it was about below. The website for Horizeon should be easy to navigate for both the user and the coder
 >>>>>>> 53dd7a396b16dbd6d1de527c9a88713206008c2d
+![pic of site](/assets/images/Screen Shot 2022-03-03 at 9.48.22 PM Medium.jpeg)
