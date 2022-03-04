@@ -10,6 +10,7 @@
     background-color: #2a607c;
     color: #ffffff;
     position: absolute;
+    width: 100%;
 }
 
 .header h1 {
